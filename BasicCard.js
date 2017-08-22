@@ -1,3 +1,6 @@
+// Export Constructor function
+// module.exports = BasicCard
+
 function BasicCard(front, back){
 
 	// Ensure users get the result of a new call, even if they forget.
